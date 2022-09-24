@@ -36,8 +36,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/salahudheen007/notifications-page-main)
-- Live Site URL: [live url](https://salahudheen007.github.io/notifications-page-main/)
+- Solution URL: [GitHub](https://github.com/salahudheen007/Frontend-Mentor-Advice-generator-app)
+- Live Site URL: [live url](https://632f113d746bfd1045083cc9--magenta-gumdrop-006ed6.netlify.app/)
 
 ## My process
 
